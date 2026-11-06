@@ -1,0 +1,16 @@
+../Core/Src/ad5933_stm32_2.c:22:26:AD5933_FrequencyToCode	40	static
+../Core/Src/ad5933_stm32_2.c:65:6:AD5933_Init	16	static
+../Core/Src/ad5933_stm32_2.c:86:19:AD5933_SetRegisterValue	48	static
+../Core/Src/ad5933_stm32_2.c:142:19:AD5933_GetRegisterValue	56	static
+../Core/Src/ad5933_stm32_2.c:193:19:AD5933_Reset	16	static
+../Core/Src/ad5933_stm32_2.c:207:19:AD5933_SetSystemClock	24	static
+../Core/Src/ad5933_stm32_2.c:245:19:AD5933_SetRangeAndGain	24	static
+../Core/Src/ad5933_stm32_2.c:282:19:AD5933_SetSettlingTime	24	static
+../Core/Src/ad5933_stm32_2.c:318:19:AD5933_ConfigSweep	40	static
+../Core/Src/ad5933_stm32_2.c:379:19:AD5933_StartSweep	24	static
+../Core/Src/ad5933_stm32_2.c:428:19:AD5933_IncrementFrequency	16	static
+../Core/Src/ad5933_stm32_2.c:443:19:AD5933_IsDataReady	24	static
+../Core/Src/ad5933_stm32_2.c:470:19:AD5933_IsSweepDone	24	static
+../Core/Src/ad5933_stm32_2.c:501:19:AD5933_GetData	40	static
+../Core/Src/ad5933_stm32_2.c:559:8:AD5933_CalculateGainFactor	72	static
+../Core/Src/ad5933_stm32_2.c:602:8:AD5933_CalculateImpedance	64	static

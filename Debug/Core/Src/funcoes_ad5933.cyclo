@@ -1,0 +1,15 @@
+../Core/Src/funcoes_ad5933.c:43:6:wait_usb_ready	3
+../Core/Src/funcoes_ad5933.c:143:13:uart_write_buf	5
+../Core/Src/funcoes_ad5933.c:176:6:uart_puts	1
+../Core/Src/funcoes_ad5933.c:181:6:uart_putc	1
+../Core/Src/funcoes_ad5933.c:186:6:uart_print_u32	4
+../Core/Src/funcoes_ad5933.c:213:13:uart_print_fixed	6
+../Core/Src/funcoes_ad5933.c:270:13:print_capacitance	5
+../Core/Src/funcoes_ad5933.c:295:13:print_error_percent	5
+../Core/Src/funcoes_ad5933.c:320:6:tests_reset_calibration	1
+../Core/Src/funcoes_ad5933.c:325:16:is_positive_finite	3
+../Core/Src/funcoes_ad5933.c:341:9:button_pressed_event	5
+../Core/Src/funcoes_ad5933.c:381:26:ad5933_is_sweep_done	3
+../Core/Src/funcoes_ad5933.c:407:26:wait_data_ready	5
+../Core/Src/funcoes_ad5933.c:442:19:run_test	12
+../Core/Src/funcoes_ad5933.c:645:6:ad5933_hw_init	6
